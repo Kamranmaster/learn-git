@@ -1,2 +1,9 @@
-# leran-git
-a test to lern git
+
+# Learn about git and github
+
+a test to learn git
+
+```javascipt
+console.log('Hello world');
+
+```
